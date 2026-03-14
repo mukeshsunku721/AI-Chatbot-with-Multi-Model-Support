@@ -27,7 +27,6 @@ An AI-powered chatbot built using Flask and Groq API with LLaMA models.
 git clone https://github.com/yourusername/ai-chatbot.git
 cd ai-chatbot
 
-**Author**
+## Author
 Mukesh Sunku
-pip install -r requirements.txt
-python app.py
+
