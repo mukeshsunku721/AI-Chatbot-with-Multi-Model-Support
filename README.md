@@ -97,3 +97,44 @@ http://127.0.0.1:5000
 Add screenshots of your chatbot interface here.
 
 Example:
+screenshots/Screenshot from 2026-03-14 19-23-50.png
+
+---
+
+# 📌 Future Improvements
+
+- Streaming AI responses
+- User authentication
+- Database storage (MongoDB / PostgreSQL)
+- File / PDF chat support (RAG)
+- Voice interaction
+- Cloud deployment (Render / Railway)
+
+---
+
+# 🎯 Skills Demonstrated
+
+This project highlights the following technical skills:
+
+- Full-stack web development
+- REST API integration
+- Large Language Model (LLM) usage
+- Frontend UI/UX design
+- JavaScript state management
+- Python backend development
+
+---
+
+# 👨‍💻 Author
+
+**Mukesh Sunku**
+
+GitHub: https://github.com/mukeshsunku721
+
+LinkedIn: http://linkedin.com/in/mukesh-sunku-721ms/
+
+---
+
+# ⭐ Support
+
+If you like this project, consider **starring ⭐ the repository** on GitHub.
