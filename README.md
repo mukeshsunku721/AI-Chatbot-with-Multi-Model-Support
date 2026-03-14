@@ -21,12 +21,6 @@ An AI-powered chatbot built using Flask and Groq API with LLaMA models.
 - Bootstrap
 - Groq API (LLaMA models)
 
-## Installation
-
-```bash
-git clone https://github.com/yourusername/ai-chatbot.git
-cd ai-chatbot
-```
 ## Author
 Mukesh Sunku
 
