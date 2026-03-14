@@ -42,6 +42,7 @@ This project demonstrates **full-stack development and AI API integration**, mak
 ---
 
 # 📂 Project Structure
+``` bash
 AI-Chatbot-with-Multi-Model-Support/
 │
 ├── app.py
@@ -55,7 +56,7 @@ AI-Chatbot-with-Multi-Model-Support/
 └── static/
   ├── style.css
   └── script.js
-
+```
 ---
 
 # ⚙️ Installation
@@ -78,3 +79,21 @@ Create a `.env` file in the root directory:
 ``` bash
 GROQ_API_KEY=your_api_key_here
 ```
+
+### 4️⃣ Run the application
+```bash
+python app_offline.py
+```
+
+Open the application in your browser:
+``` bash
+http://127.0.0.1:5000
+```
+
+---
+
+# 🖼 Screenshots
+
+Add screenshots of your chatbot interface here.
+
+Example:
